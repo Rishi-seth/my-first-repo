@@ -1,3 +1,3 @@
 # my-first-repo
 <br>
-Author-Rishi Seth
+Author-Rishi seth
